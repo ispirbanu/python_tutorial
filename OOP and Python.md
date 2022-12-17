@@ -37,4 +37,4 @@ Major Concepts
 
 The first real world example that comes to mind is automobile. 
 
-![Untitled](OOP%20and%20Python%203b82daf5bf944331bf9227c189148f89/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb13f08d-e89f-46df-8892-eb6c01c61227/Untitled.png)
