@@ -34,7 +34,7 @@ Basit bir örnek gibi görünebilir ancak bunu bir şehrin ev değerlerinin oldu
 
 Bu yüzden örneklemin ortalaması alınabilir. 
 
-![Untitled](statistics%20beginner%20basic%20notes%207f79b3abd3d5451282cfd1a836f700aa/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b68ba8a-ca2e-4c8b-8fcd-5fd6c4e2b154/Untitled.png)
 
 **μ: popülasyon ortalaması** 
 
@@ -83,4 +83,4 @@ S**ample variance:  s**²= **[Σ xi(xi -x̄)**² ] **÷ (n-1)**
 
 **σ=** √ ∑(xi−μ)²**÷** N (populations)
 
-![Untitled](statistics%20beginner%20basic%20notes%207f79b3abd3d5451282cfd1a836f700aa/Untitled%201.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b68ba8a-ca2e-4c8b-8fcd-5fd6c4e2b154/Untitled.png)
