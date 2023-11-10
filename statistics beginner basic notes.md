@@ -84,5 +84,4 @@ S**ample variance:  s**²= **[Σ xi(xi -x̄)**² ] **÷ (n-1)**
 
 **σ=** √ ∑(xi−μ)²**÷** N (populations)
 
-![image](https://github.com/ispirbanu/python_tutorial-python_dersleri_notlari/assets/45195137/a73a0575-e25b-4548-b264-a52a364ed507)
-
+![image](https://github.com/ispirbanu/python_tutorial-python_dersleri_notlari/assets/45195137/ab73ef3d-6ff4-4dd6-9a5c-fb41c25944d6)
