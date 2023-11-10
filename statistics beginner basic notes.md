@@ -34,7 +34,7 @@ Basit bir örnek gibi görünebilir ancak bunu bir şehrin ev değerlerinin oldu
 
 Bu yüzden örneklemin ortalaması alınabilir. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b68ba8a-ca2e-4c8b-8fcd-5fd6c4e2b154/Untitled.png)
+![image](https://github.com/ispirbanu/python_tutorial-python_dersleri_notlari/assets/45195137/28a45fe8-0b78-4ed9-b8fe-e76c1d991ac5)
 
 **μ: popülasyon ortalaması** 
 
@@ -79,8 +79,10 @@ S**ample variance:  s**²= **[Σ xi(xi -x̄)**² ] **÷ (n-1)**
 
 **σ**2 = 24 **÷** 4 = 6.25
 
+
 **Standard Deviation (Standart Sapma):**
 
 **σ=** √ ∑(xi−μ)²**÷** N (populations)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b68ba8a-ca2e-4c8b-8fcd-5fd6c4e2b154/Untitled.png)
+![image](https://github.com/ispirbanu/python_tutorial-python_dersleri_notlari/assets/45195137/80ce5fe2-4c64-4031-9010-394e35c14d17)
+5fd6c4e2b154/Untitled.png)
